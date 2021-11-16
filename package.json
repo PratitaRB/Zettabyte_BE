@@ -1,0 +1,21 @@
+{
+  "name": "zettabyte_be",
+  "version": "1.0.0",
+  "description": "Code Challenge",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Pratita R Buwana",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "stringify": "^5.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
